@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+
+}
+
+a {
+    text-decoration: none;
+    color: #7199b3;
+}
+
+.logo {
+    background: url(../img/logo.png) top left no-repeat;
+    background-size: cover;
+    height: 100px;
+    margin-left: 150px;
+    text-indent: -9999px;
+    width: 100px;
+    position: absolute;
+}
+
+nav a{
+    color: #2d2d2d;
+    display: inline-block;
+    padding: 20px;
+    text-transform: uppercase; 
+}
+
+nav ul{
+    padding: 0;
+    margin: 0 0 0 265px;
+}
+
+nav {
+    background-color: #e1e1e1;
+    width: 100%;
+
+}
+
+.banner h2 {
+    padding: 245px 360px 0px 150px;
+    margin: 0;
+}
+
+.banner p {
+    padding-left: 150px;
+}
+
+.banner {
+    background: url(../img/banner.jpg) top left no-repeat;
+    background-size: cover;
+    color: #fff;
+    height: 648px;
+    width: 100%;
+    font-size: 28px;
+}
+
+main {
+    width: 100%;
+    vertical-align: center;
+}
+
+.description h2 {
+    margin-top: 0;
+}
+.description {
+    background-color: #cccccc;
+    height: 300px;
+    width: 100%;
+}
+
+
+
