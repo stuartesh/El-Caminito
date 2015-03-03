@@ -43,6 +43,7 @@ nav {
 
 .banner p {
     padding-left: 150px;
+    line-height: 0.5em;
 }
 
 .banner {
@@ -52,6 +53,8 @@ nav {
     height: 648px;
     width: 100%;
     font-size: 28px;
+    text-shadow: 2px 7px 18px black;
+    font-size: 2rem;
 }
 
 main {
